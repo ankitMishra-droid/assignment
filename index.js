@@ -26,7 +26,7 @@ configDotenv({
           method: "GET",
           path: "/",
           handler: (req, h) => {
-            return "Hello World\n";
+            return "Networth-Tracking\n";
           },
         },
         {
