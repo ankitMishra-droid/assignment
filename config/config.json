@@ -1,23 +1,23 @@
 {
   "development": {
     "username": "root",
-    "password": 54325321,
-    "database": "networth_development",
-    "host": "127.0.0.1",
-    "dialect": "postgres"
+    "password": "54325321",
+    "database": "networth_tracking",
+    "host": "localhost",
+    "dialect": "mysql"
   },
   "test": {
     "username": "root",
     "password": null,
     "database": "networth_test",
-    "host": "127.0.0.1",
-    "dialect": "postgres"
+    "host": "localhost",
+    "dialect": "mysql"
   },
   "production": {
     "username": "root",
     "password": null,
     "database": "networth_production",
-    "host": "127.0.0.1",
-    "dialect": "postgres"
+    "host": "localhost",
+    "dialect": "mysql"
   }
 }
